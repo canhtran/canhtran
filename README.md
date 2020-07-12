@@ -1,4 +1,4 @@
-![I'm Calvin](https://imgur.com/a/Nvj8aXw)
+<img src="https://imgur.com/a/Nvj8aXw" />
 Hello 👋
 
 I'm Calvin, I'm a Data Engineer. 
