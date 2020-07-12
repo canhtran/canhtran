@@ -1,4 +1,4 @@
-<img src="https://imgur.com/a/Nvj8aXw" />
+<img src="https://i.imgur.com/KGUFedX.jpg" />
 Hello 👋
 
 I'm Calvin, I'm a Data Engineer. 
