@@ -1,9 +1,11 @@
 <img src="https://i.imgur.com/KGUFedX.jpg" />
+
+<!--
+**canhtran/canhtran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 Hello 👋
 
 I'm Calvin, I'm a Data Engineer. 
-<!--
-**canhtran/canhtran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
