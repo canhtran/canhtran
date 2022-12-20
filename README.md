@@ -1,20 +1,12 @@
-<img src="https://i.imgur.com/KGUFedX.jpg" />
+### Hi, I'm Calvin 👋
 
-<!--
-**canhtran/canhtran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a full-time data engineer and a part-time content creator.
 
-Hello 👋
+- 🎓 My interests lie in Spark, Flink, and Airflow.
+- 🔭 I am constantly building frameworks and tools, but unfortunately, never seem to have the time to complete a single one. If you are interested in collaborating on my projects, please do let me know.
+- 📝 At present, I am learning Terraform.
+- 😅 A fun fact: two years ago, I started a YouTube channel out of boredom and was pleasantly surprised when it gained popularity in the Vietnamese community.
 
-I'm Calvin, I'm a Data Engineer. 
+I'm best reached via [email](trandcanh@gmail.com). I'm always open to interesting conversations and collaboration.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCYHKeGCNDpgbof7uPXrEWbQ?style=social)
